@@ -29,7 +29,7 @@ git pull
 
 git rm filename
 
-
+git --all
 
 
 
